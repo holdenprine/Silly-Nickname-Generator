@@ -9,7 +9,4 @@ public class NicknameList
     public String[] nickNamesMale = { "Joe Mama", "Easy Pete", "Dingus", "Traveling Scott", "Jon Doe", "Joe Shmoe" };
 
     public String[] nickNamesAnimals = { "Bubby", "Dingus", "Spooter", "Boober", "Goober", "Spoofy" };
-
-
-
 }
